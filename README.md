@@ -1,54 +1,34 @@
-# Hy,
-
-![Portfolio Logo](link/to/portfolio-logo.png)
+![Portfolio Logo](https://alfianlensun.tech/images/logo.png)
 
 ## Introduction
 
-Welcome to my GitHub Portfolio! 👋 This repository serves as a showcase of the various projects and contributions I've worked on. Each project represents a unique aspect of my skills and interests in the world of software development.
+Hello, I'm Alfian Lensun! 👋 Welcome to my GitHub Portfolio, where I showcase various projects and contributions that represent my skills and interests in the world of software development.
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: Tauri Plugin Printer
 
-- **Description:** Briefly describe the purpose and features of the project.
-- **Tech Stack:** List the technologies used in this project.
-- **Demo:** If applicable, provide a link to a live demo or deployment.
+- **Description:** Tauri Plugin Printer is a Tauri plugin designed for silent printing. It allows seamless integration with Tauri applications, enabling silent printing functionality.
+- **Tech Stack:** Tauri, Rust, Typescript, Javascript, [Other Technologies Used]
 
-### Project 2: [Project Name]
+### Project 2: Hospital Information System
 
-- **Description:** Summarize the goals and functionalities of the project.
-- **Tech Stack:** Specify the technologies and tools employed in this project.
-- **Demo:** Include a link to a live demo or showcase.
-
-### ...
-
-Continue this pattern for each project in your portfolio.
+- **Description:** s a comprehensive and integrated information management system designed for hospitals and healthcare institutions. It encompasses a wide range of functionalities to streamline and optimize various aspects of hospital operations. 
+- **Tech Stack:** NextJS, TRPC, Elysia, [Other Technologies Used]
 
 ## Skills
-
-- **Programming Languages:** List the languages you're proficient in (e.g., JavaScript, Python, Java).
-- **Web Technologies:** Highlight your expertise in web development technologies (HTML, CSS, React, etc.).
-- **Other Skills:** Mention any other relevant skills like database management, version control (Git), etc.
+- **Programming Languages:** Typescript, Javascript, Golang, Rust, PHP
+- **Web Technologies:** NextJs, NestJs, ElysiaJs, Go Fiber, 
+- **Other Skills:** PostgreSQL, RabbitMQ, Redis, Jenkins, Git.
 
 ## How to Reach Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-username)
-- **Email:** your.email@example.com
-- **Portfolio Website:** [Your Portfolio Website](https://www.yourportfolio.com)
+- **LinkedIn:** [Alfian Lensun's LinkedIn Profile](https://www.linkedin.com/in/alfian-ricky-lensun-260407174)
+- **Email:** alfianlensundev@gmail.com
+- **Portfolio Website:** [Alfian Lensun's Portfolio](https://www.alfianlensun.tech)
 
 ## Contributions
-
 I actively contribute to open source projects and enjoy collaborating with the community. Here are some notable contributions:
 
-- [Project Name](link/to/contribution): Description of the contribution.
-- [Another Project](link/to/contribution): Brief summary of your involvement.
+- [Tauri Plugin Printer](https://github.com/alfianlensundev/tauri-plugin-printer): Developed a Tauri.js plugin for silent printing.
 
-## Blog
-
-I occasionally write technical articles and share my insights. Explore my [blog](link/to/blog) to learn more about my thoughts and experiences.
-
-## License
-
-This portfolio is licensed under the [MIT License](LICENSE.md) - feel free to use and modify the structure for your own portfolio.
-
-Thank you for visiting my GitHub Portfolio! Feel free to explore the projects, and don't hesitate to reach out if you have any questions or collaboration opportunities. 🚀
