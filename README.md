@@ -18,7 +18,7 @@ Hello, I'm Alfian Lensun! 👋 Welcome to my GitHub Portfolio, where I showcase 
 - **Tech Stack:** NextJS, TRPC, Elysia, [Other Technologies Used]
 
 ## Skills
-- **Programming Languages:** Typescript, Javascript, Golang, Rust, PHP
+- **Programming Languages:** Typescript, Javascript, Golang, Rust, PHP, Python
 - **Web Technologies:** NextJs, NestJs, ElysiaJs, Go Fiber, 
 - **Other Skills:** PostgreSQL, RabbitMQ, Redis, Jenkins, Git.
 
