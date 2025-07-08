@@ -16,15 +16,14 @@ Hello, I'm Alfian Lensun! 👋 Welcome to my GitHub Portfolio, where I showcase 
 - **Tech Stack:** NextJS, TRPC, ActixWeb, Elysia, [Other Technologies Used]
 
 ## Skills
-- **Programming Languages:** Typescript, Javascript, Golang, Rust, PHP, Python
-- **Web Technologies:** NextJs, NestJs, ElysiaJs, Go Fiber, 
+- **Programming Languages:** Rust, Typescript, Javascript, Golang, PHP, Python
+- **Frameworks:** ActixWeb, ElysiaJs, NextJS
 - **Other Skills:** PostgreSQL, RabbitMQ, Redis, Jenkins, Git.
 
 ## How to Reach Me
 
 - **LinkedIn:** [Alfian Lensun's LinkedIn Profile](https://www.linkedin.com/in/alfian-ricky-lensun-260407174)
 - **Email:** alfianlensundev@gmail.com
-- **Portfolio Website:** [Alfian Lensun's Portfolio](https://www.alfianlensun.tech)
 
 ## Contributions
 I actively contribute to open source projects and enjoy collaborating with the community. Here are some notable contributions:
