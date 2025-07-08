@@ -13,7 +13,7 @@ Hello, I'm Alfian Lensun! 👋 Welcome to my GitHub Portfolio, where I showcase 
 ### Project 2: Hospital Information System
 
 - **Description:** s a comprehensive and integrated information management system designed for hospitals and healthcare institutions. It encompasses a wide range of functionalities to streamline and optimize various aspects of hospital operations. 
-- **Tech Stack:** NextJS, TRPC, Elysia, [Other Technologies Used]
+- **Tech Stack:** NextJS, TRPC, ActixWeb, Elysia, [Other Technologies Used]
 
 ## Skills
 - **Programming Languages:** Typescript, Javascript, Golang, Rust, PHP, Python
