@@ -1,32 +1,66 @@
+# Hi, I'm Alfian Lensun 👋
 
-## Introduction
+Software developer focused on **Rust**, **TypeScript**, and building reliable systems — from desktop tooling with Tauri to full-scale healthcare platforms.
 
-Hello, I'm Alfian Lensun! 👋 Welcome to my GitHub Portfolio, where I showcase various projects and contributions that represent my skills and interests in the world of software development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfian-ricky-lensun-260407174)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfianlensundev@gmail.com)
 
-## Projects
+---
 
-### Project 1: Tauri Plugin Printer
+## 🚀 Featured Projects
 
-- **Description:** Tauri Plugin Printer is a Tauri plugin designed for silent printing. It allows seamless integration with Tauri applications, enabling silent printing functionality.
-- **Tech Stack:** Tauri, Rust, Typescript, Javascript, [Other Technologies Used]
+### 🌐 [DNZ](https://dnzwithazee.com) · [Releases](https://github.com/terrific-ci/dnz/releases)
+> 🆓 Free to use · 🏠 Self-hosted
 
-### Project 2: Hospital Information System
+A **self-hosted authoritative DNS server & forwarder** for internal networks — hospitals, campuses, and multi-department offices. Manage it from a web dashboard, the `dnz` CLI, or an HTTP API.
 
-- **Description:** s a comprehensive and integrated information management system designed for hospitals and healthcare institutions. It encompasses a wide range of functionalities to streamline and optimize various aspects of hospital operations. 
-- **Tech Stack:** NextJS, TRPC, ActixWeb, Elysia, [Other Technologies Used]
+- **Authoritative DNS & forwarding** — wildcards, EDNS(0), upstreams over DoT / DoH / DoQ / DoH3 with caching, load balancing & health checks
+- **Filtering** — blocklists, custom rules, safe search, parental control, RPZ
+- **GeoDNS, split horizon, DNSSEC** & rate limiting
+- **Replication** — AXFR/IXFR, TSIG, NOTIFY, catalog zones
+- **Automation** — API tokens, ACME DNS-01, DynDNS2, RFC 2136, Cloudflare sync
+- **Access control** — divisions, roles, and audit log
+- Ships as a single binary (Linux amd64/arm64, Docker, systemd), with an optional Pingora-based reverse proxy (`dnz-proxy`)
 
-## Skills
-- **Programming Languages:** Rust, Typescript, Javascript, Golang, PHP, Python
-- **Frameworks:** ActixWeb, ElysiaJs, NextJS
-- **Other Skills:** PostgreSQL, RabbitMQ, Redis, Jenkins, Git.
+`Rust` `DNS` `SQLite` `PostgreSQL` `MySQL` `Redis` `Pingora` `Docker`
 
-## How to Reach Me
+### 🖨️ [Tauri Plugin Printer](https://github.com/alfianlensundev/tauri-plugin-printer)
+A Tauri plugin for **silent printing** — print directly from your Tauri app without showing a print dialog.
 
-- **LinkedIn:** [Alfian Lensun's LinkedIn Profile](https://www.linkedin.com/in/alfian-ricky-lensun-260407174)
-- **Email:** alfianlensundev@gmail.com
+`Tauri` `Rust` `TypeScript` `JavaScript`
 
-## Contributions
-I actively contribute to open source projects and enjoy collaborating with the community. Here are some notable contributions:
+### 🔐 [Tauri Plugin Fingerprint](https://github.com/alfianlensundev/tauri-plugin-fingerprint)
+A Tauri plugin for **fingerprint scanner integration** — capture and verify fingerprints from within a Tauri application.
 
-- [Tauri Plugin Printer](https://github.com/alfianlensundev/tauri-plugin-printer): Developed a Tauri.js plugin for silent printing.
+`Tauri` `Rust` `TypeScript` `JavaScript`
 
+### 🏥 Hospital Information System
+A comprehensive, integrated information management system for hospitals and healthcare institutions, designed to streamline and optimize day-to-day hospital operations.
+
+`Next.js` `tRPC` `Actix Web` `Elysia`
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+| --- | --- |
+| **Languages** | Rust, TypeScript, JavaScript, Go, PHP, Python |
+| **Frameworks** | Actix Web, Elysia, Next.js, Tauri |
+| **Databases & Messaging** | PostgreSQL, MySQL, SQLite, Redis, RabbitMQ |
+| **DevOps & Tools** | Docker, Jenkins, Git |
+
+---
+
+## 🤝 Open Source
+
+I actively contribute to open source and enjoy collaborating with the community:
+
+- **[tauri-plugin-printer](https://github.com/alfianlensundev/tauri-plugin-printer)** — silent printing for Tauri apps
+- **[tauri-plugin-fingerprint](https://github.com/alfianlensundev/tauri-plugin-fingerprint)** — fingerprint scanner integration for Tauri apps
+
+---
+
+## 📫 Get in Touch
+
+Open to collaboration and interesting projects — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/alfian-ricky-lensun-260407174) or [email](mailto:alfianlensundev@gmail.com).
